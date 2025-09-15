@@ -1,46 +1,49 @@
-# مرحبا 👋، أنا <اسمك> — Full-Stack MERN Developer
+# Hi there 👋, I'm <Yuosef> — Full-Stack MERN Developer
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=<your-github-username>)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=<yuosefAlnijme-2001-sketch>)
 
-## عني
-أنا مطور Full-Stack متخصّص في **MERN (MongoDB, Express, React, Node.js)**. أحب بناء تطبيقات واجهات مستخدم تفاعلية وخوادم قوية قابلة للتوسع. أعمل حالياً على مشاريع ✅ e-commerce و✅ real-time apps.
+## 👨‍💻 About Me
+I’m a passionate **Full-Stack MERN Developer** who enjoys transforming ideas into scalable, high-performance web applications.  
+With solid experience in **MongoDB, Express, React, and Node.js**, I build seamless solutions that combine intuitive UI with robust back-end services.  
 
-- 📍 مقيم في: <مدينتك، بلدك>
-- 💼 المسمى الوظيفي: Full-Stack MERN Developer
-- 📫 تواصل معي: [Email](mailto:<your-email>) · [LinkedIn](<linkedin-url>)
+- 🌍 Based in: <Gaza>  
+- 💼 Role: Full-Stack Developer (MERN)  
+- 📧 Contact: [Email](mailto:<yuosefalnijmejop@gmail.com
+>) · [LinkedIn](<https://www.linkedin.com/in/yuosef-alnijme-9a2722353/>)  
+- 🚀 Currently building **Corses 
 
 ---
 
-## المهارات التقنية
+## 🛠 Tech Stack
 **Front-end:** React, Redux, React Router, TailwindCSS, Styled Components  
-**Back-end:** Node.js, Express, REST, GraphQL, JWT, Socket.io  
-**DB / Infra:** MongoDB (Atlas), Mongoose, Redis, Docker, Nginx  
-**Tools:** Git, GitHub Actions, Postman, Webpack, ESLint, Prettier
+**Back-end:** Node.js, Express, REST APIs, GraphQL, JWT, Socket.io  
+**Database / Infra:** MongoDB (Atlas), Mongoose, Redis, Docker, Nginx  
+**Tools & Workflow:** Git, GitHub Actions (CI/CD), Postman, ESLint, Prettier, Agile  
 
 ---
 
-## المشاريع المميزة (Pinned)
-- [Hospital Management (MERN)](https://github.com/<username>/hospital-management-mern) — نظام كامل لإدارة العيادات: تسجيل مواعيد، ملفات مرضى، تقارير PDF، صلاحيات.  
-- [E-commerce MERN](https://github.com/<username>/mern-ecommerce) — متجر مع بوابة دفع، لوحة تحكم، وإدارة منتجات.  
-- [Realtime Chat App](https://github.com/<username>/realtime-chat) — دردشة بلحظيّة مع Socket.io وNotifications.
+## 🌟 Featured Projects
+- [E-commerce Platform (MERN)]([https://github.com/<username>/mern-ecommerce](https://github.com/yuosefAlnijme-2001-sketch/Shopping-backEnd)) — Full-featured online store with payments, admin dashboard, product management.   
 
 ---
 
-## إحصائياتي
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true)
+## 📊 GitHub Analytics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)  
 
 ---
 
-## ماذا أتعلم الآن
-- 🔭 أعمل على: مشروع MERN مع microservices وDocker Compose  
-- 🌱 أتعلم: GraphQL + Apollo، CI/CD متقدّم، وKubernetes
+## 🔭 What I’m Working On
+- Building scalable MERN projects with **Course Selling Project** 
+- Exploring **GraphQL + Apollo** for efficient APIs  
+- Learning advanced **CI/CD pipelines** and **Kubernetes**  
 
 ---
 
-## تواصل
-- ✉️ Email: <your-email>  
-- 🔗 LinkedIn: <linkedin-url>  
-- 💬 Twitter: <twitter-url> (اختياري)
+## 📫 Let's Connect
+- ✉️ [Email](mailto:<yuosefalnijmejop@gmail.com>)  
+- 🔗 [LinkedIn](<https://www.linkedin.com/in/yuosef-alnijme-9a2722353/>)  
+- 🌐 [Portfolio](<https://comfy-cucurucho-30d051.netlify.app/
+>)  
 
-> لو حابب أخصّصلك هذا الملف (أضع اسمك، روابط مشاريعك، وصور)، أرسللي: اسمك، 3 مشاريع تريد تثبيتها، و روابطها — وأنا أعدّلك نسخة جاهزة للنسخ.
+---
